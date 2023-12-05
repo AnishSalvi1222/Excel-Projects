@@ -22,6 +22,11 @@ customer ID, marital status, gender, children count, education level, occupation
 - Analyze regional trends in bike sales.
 - Investigate the impact of factors like marital status, education, and occupation on bike purchases.
 
+## Dashboard
+
+![Bike Sales Dashboard](https://github.com/AnishSalvi1222/Excel-Projects/assets/104258169/5b0c9acc-0af1-4a78-97bb-d8278966f8e2)
+
+
 ## Reference
 
 This dataset is downloaded from (https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
