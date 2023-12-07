@@ -19,6 +19,11 @@ The data set consist of sales information of the a store. Please refer the below
 6. Which channel is cntributing maximum sales?
 7. Highest selling category?
 
+## Dashboard
+
+![Store Sale Analysis](https://github.com/AnishSalvi1222/Excel-Projects/assets/104258169/b7f1f623-e5d0-4ff6-93d2-11a69e2ba019)
+
+
 ## Some Insights
 1. Maharashtra, Karnataka and Uttar Pradesh are top 3 states.(~35%)
 2. Adult group (30-49 year) is max contributing (~50%)
